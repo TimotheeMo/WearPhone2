@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WearPhone2</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="hello_boxinsetlayout">Hello Round World!</string>
+    <string name="wearTitle">Notification</string>
+    <string name="wearContent">This is a notification</string>
+    <string name="buttonPush">Press Here</string>
+</resources>

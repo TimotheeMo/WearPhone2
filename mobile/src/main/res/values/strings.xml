@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WearPhone2</string>
+    <string name="show_notification">Show the new Notification</string>
+</resources>
